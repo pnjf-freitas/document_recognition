@@ -11,6 +11,13 @@ This project is a starting point for a Flutter application that uses the camera 
 - [Flutter](https://flutter.dev/docs/get-started/install) installed on your machine.
 - An IDE such as [Visual Studio Code](https://code.visualstudio.com/) or [Android Studio](https://developer.android.com/studio).
 
+Note that this app is intended for Android/iOS so it needs to be run directly on a Android/iOS device or emulator.
+
+Tutorials for setting up an Android emulator in:
+- VSCode: [https://medium.com/@bosctechlabs/code-of-how-to-set-up-an-emulator-for-vscode-updated-ad4365c0559b](https://medium.com/@bosctechlabs/code-of-how-to-set-up-an-emulator-for-vscode-updated-ad4365c0559b)
+- AndroidStudio: [https://developer.android.com/studio/run/emulator](https://developer.android.com/studio/run/emulator)
+
+
 ### Installation
 
 1. Clone the repository:
